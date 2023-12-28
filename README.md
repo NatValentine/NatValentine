@@ -6,4 +6,4 @@ Right now I'm based in Buenos Aires, Argentina where I'm studying Systems Engine
 
 You can find me at [itch.io](https://natvalentine.itch.io/), and [LinkedIn](https://linkedin.com/in/natvalentine).
 
-Are you a recuiter? Here's my [resume](https://natvalentine.github.io/Resume/).
+Are you a recruiter? Here's my [resume](https://natvalentine.github.io/Resume/).
