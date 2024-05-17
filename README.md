@@ -1,9 +1,37 @@
-👋 Hi, I’m @NatValentine, an aspiring game developer currently working on getting a new job.
+# 👋 Hi, I'm @NatValentine! 
 
-I’m currently taking a back-to-basics approach to programming hoping to learn new things and relearn some I thought I had forgotten.
+I am a full-stack developer passionate about making games.
 
-Right now I'm based in Buenos Aires, Argentina where I'm studying Systems Engineering at the Universidad Tecnológica Nacional and have graduated as a Game Developer from Universidad Abierta Interamericana.
 
-You can find me at [itch.io](https://natvalentine.itch.io/), and [LinkedIn](https://linkedin.com/in/natvalentine).
+## About Me
 
-Are you a recruiter? Here's my [resume](https://natvalentine.github.io/Resume/).
+- 📚 I'm currently pursuing an engineering degree at UTN.
+- 👨🏻‍🎓 I graduated as an associate game developer at UAI.
+- 🕹️ I publish my own games on [itch.io](https://natvalentine.itch.io/).
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,angular,postgresql,cs,unity,godot)](https://skillicons.dev)
+
+
+## Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Going back-to-basics with JS
+  - Deepening my Angular and NestJS knowledge
+  - Learning cloud fundamentals
+- 🚀 Getting to know Godot
+
+
+## Achievements
+
+- 🏆 Survived 100% of days since birth.
+
+
+## Get in Touch
+
+- Take a look at my [resume](https://natvalentine.github.io/Resume/)
+- Connect with me on [LinkedIn](https://linkedin.com/in/natvalentine)
+
+
+Thanks for stopping by!
