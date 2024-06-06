@@ -30,7 +30,7 @@ I am a full-stack developer passionate about making games.
 
 ## Get in Touch
 
-- Take a look at my [resume](https://natvalentine.github.io/Resume/)
+- Take a look at my [resume](https://natvalentine.github.io/NatValentine-resume/)
 - Connect with me on [LinkedIn](https://linkedin.com/in/natvalentine)
 
 
