@@ -16,12 +16,12 @@ I am a full-stack developer passionate about making games.
 
 ## Currently Exploring
 
+- 🚀 Getting certified as a UX designer
 - 🚀 Learning Full Stack Web Development
   - Going back-to-basics with JS
   - Deepening my Angular and NestJS knowledge
   - Learning cloud fundamentals
 - 🚀 Getting to know Godot
-- 🚀 Publishing @ Play Store
 
 
 ## Achievements
