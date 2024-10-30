@@ -11,17 +11,13 @@ I am a full-stack developer passionate about making games.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,angular,postgresql,cs,unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,angular,postgresql,cs,unity,godot,figma,androidstudio,kotlin)](https://skillicons.dev)
 
 
 ## Currently Exploring
 
-- 🚀 Getting certified as a UX designer
-- 🚀 Learning Full Stack Web Development
-  - Going back-to-basics with JS
-  - Deepening my Angular and NestJS knowledge
-  - Learning cloud fundamentals
-- 🚀 Getting to know Godot
+- 🚀 Kotlin and Android Studio
+- 🚀 Godot
 
 
 ## Achievements
@@ -31,7 +27,7 @@ I am a full-stack developer passionate about making games.
 
 ## Get in Touch
 
-- Take a look at my [resume](https://natvalentine.github.io/NatValentine-resume/)
+- Take a look at my [resume](https://www.natvalentine.com/resume)
 - Connect with me on [LinkedIn](https://linkedin.com/in/natvalentine)
 
 
