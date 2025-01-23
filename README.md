@@ -11,11 +11,12 @@ I am a full-stack developer passionate about making games.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,angular,postgresql,cs,unity,godot,figma,androidstudio,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,angular,postgresql,cs,unity,godot,figma,java,androidstudio,kotlin)](https://skillicons.dev)
 
 
 ## Currently Exploring
 
+- 🚀 New Angular versions
 - 🚀 Kotlin and Android Studio
 - 🚀 Godot
 
