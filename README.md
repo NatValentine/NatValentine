@@ -16,7 +16,7 @@ I am a full-stack developer passionate about making games.
 
 ## Currently Exploring
 
-- 🚀 New Angular versions
+- 🚀 New Angular features
 - 🚀 Kotlin and Android Studio
 - 🚀 Godot
 
