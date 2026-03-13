@@ -1,35 +1,58 @@
-# 👋 Hi, I'm @NatValentine! 
+# 👋 Hi, I'm Nat Valentine
 
-I am a full-stack developer passionate about making games.
+💻 Full-Stack Developer | 🎮 Game Development Enthusiast  
 
-
-## About Me
-
-- 📚 I'm currently pursuing an engineering degree at UTN.
-- 👨🏻‍🎓 I graduated as an associate game developer at UAI.
-- 🕹️ I publish my own games on [itch.io](https://natvalentine.itch.io/).
+I enjoy building web applications and experimenting with game development.  
+Currently studying computer science while developing personal projects and expanding my technical toolkit.
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,angular,postgresql,cs,unity,godot,figma,java,androidstudio,kotlin)](https://skillicons.dev)
+
+## 👩‍💻 About Me
+
+- 📚 Bachelor Degree in **Computer Science - UoPeople**
+- 📚 Engineering student at **UTN**
+- 🎓 Associate Degree in **Game Development – UAI**
+- 🕹️ I publish my own games on **itch.io**
+- 🌱 Always learning and building new things
 
 
-## Currently Exploring
 
-- 🚀 New Angular features
-- 🚀 Kotlin and Android Studio
-- 🚀 Godot
+## 🛠 Tech Stack
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react)](https://skillicons.dev)
 
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,cs,java)](https://skillicons.dev)
 
-## Achievements
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb)](https://skillicons.dev)
 
-- 🏆 Survived 100% of days since birth.
-
-
-## Get in Touch
-
-- Take a look at my [resume](https://www.natvalentine.com/resume)
-- Connect with me on [LinkedIn](https://linkedin.com/in/natvalentine)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=github,postman,figma,unity,godot)](https://skillicons.dev)
 
 
-Thanks for stopping by!
+## 🚀 Currently Exploring
+
+- **Godot** game engine
+- The full depth of **React**
+- Homelabbing and self-hosting
+
+
+
+## 🎮 Projects
+
+- Indie games published on **itch.io**
+- Web development experiments
+- Personal learning projects
+
+
+
+## 📫 Get in Touch
+
+<!-- - 📄 [Resume](https://www.natvalentine.com/resume) -->
+- 💼 [LinkedIn](https://linkedin.com/in/natvalentine)
+<!-- - 🎮 [itch.io](https://natvalentine.itch.io/) -->
+
+
+
+⭐ Thanks for stopping by!
