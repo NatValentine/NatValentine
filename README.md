@@ -22,13 +22,13 @@ Currently studying computer science while developing personal projects and expan
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,python,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,py,cs,java)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=github,postman,figma,unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,postman,figma,unity,godot,excel,powerbi)](https://skillicons.dev)
 
 
 ## 🚀 Currently Exploring
