@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nat Valentine
 
-💻 Full-Stack Developer | 🎮 Game Development Enthusiast  
+💻 Full-Stack Developer | 📊 Data Analyst | 🎮 Game Development Enthusiast  
 
 I enjoy building web applications and experimenting with game development.  
 Currently studying computer science while developing personal projects and expanding my technical toolkit.
@@ -22,7 +22,7 @@ Currently studying computer science while developing personal projects and expan
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,react)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,python,cs,java)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb)](https://skillicons.dev)
@@ -33,6 +33,7 @@ Currently studying computer science while developing personal projects and expan
 
 ## 🚀 Currently Exploring
 
+- Data Analysis
 - **Godot** game engine
 - The full depth of **React**
 - Homelabbing and self-hosting
@@ -41,9 +42,10 @@ Currently studying computer science while developing personal projects and expan
 
 ## 🎮 Projects
 
-- Indie games published on **itch.io**
 - Web development experiments
 - Personal learning projects
+- BI reports and dashboards
+- Small games published on **itch.io**
 
 
 
